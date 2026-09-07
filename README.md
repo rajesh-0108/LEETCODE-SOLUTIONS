@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/rajesh-0108/LEETCODE-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/rajesh-0108/LEETCODE-SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/rajesh-0108/LEETCODE-SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
