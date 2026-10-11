@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/rajesh-0108/LEETCODE-SOLUTIONS/tree/main/0495-teemo-attacking/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/rajesh-0108/LEETCODE-SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/rajesh-0108/LEETCODE-SOLUTIONS/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/rajesh-0108/LEETCODE-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/rajesh-0108/LEETCODE-SOLUTIONS/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/rajesh-0108/LEETCODE-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 ## String
 | Problem Name | Difficulty |
